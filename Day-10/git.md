@@ -16,3 +16,10 @@ Initianilzed -> khởi tạo xong
 empty Git repository -> lịch sử đang rỗng vì chúng ta chưa commirt lân fnaof
 
 B2: kiem tra trang thai file git status
+-B2: kiểm tra trạng thái file
+  git status
+    nói đơn giản: git đã đc bật tỏng folder -> nhưng chưa tạo mốc lưu đầu tiên
+    B3: git add tên filder hoặc tên folder
+    git add . -> chọn tât cả các file đang thay đổi trong project
+    B4: tạo commit đầu tiên
+    git commit -m "nội dung mô tả commit"
