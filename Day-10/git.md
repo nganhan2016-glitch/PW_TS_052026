@@ -41,4 +41,4 @@ có nhiều môi trường
 dev: main  -> nhánh  này là nhánh chính chạy ổn định -> khi làm việc người ta sẽ tạo ra 1 nhánh khác để làm việc để ko ảnh hưởng tới nhánh chính đang sử dụng  -> sau khi code ổn định ở nhánh phụ -> chúng ta mới merge code -> vào nhánh chính -> để bổ sung thêm tính năng
 uat: main
 
-conflict: update tu maain
+conflict: update tu nhanh 1
