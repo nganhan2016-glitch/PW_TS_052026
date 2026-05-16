@@ -1,0 +1,4 @@
+.env
+TEMP/
+*.log
+node_modules/
